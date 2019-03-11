@@ -1,11 +1,11 @@
 # Hash-Code-2019
 ## Problem statement
-The problem statement is included as __problem statement.pdf__.
+The problem statement is included as _problem statement.pdf_.
 
 ## Insights
 Some things I found out about the datasets:
 * B has 80k pictures and ~840k unique tags
-* D has 90k pictures and 220 unqiue tags
+* D has 90k pictures and 220 unique tags
 * E has 80k pictures and 500 unique tags
 * B: the interest factor between any two pictures is either 0 or 3 (-> at most 80,000 * 3 = 240,000 points)
 * B only has horizontal pictures
@@ -21,12 +21,12 @@ There are 3 main files: Main, Strategies and Helper.
 * Main: contains the functions the read the input, write the output, to 'solve' once and finally a function that solves in an infinite loop (nice to run overnight). 
 
 ## Score
-In the extended round, we got a total score of 1,048,874
-A - Example: 2
-B - Lovely landscapes: 206,655
-C - Memorable moments: 1,754
-D - Pet pictures: 433,937
-E - Shiny selfies: 406,526
+In the extended round, we got a total score of 1,048,874.
+* A - Example: 2
+* B - Lovely landscapes: 206,655
+* C - Memorable moments: 1,754
+* D - Pet pictures: 433,937
+* E - Shiny selfies: 406,526
 
 ## Running the code
 Just run Main.java, no external libraries required.
