@@ -14,7 +14,7 @@ Some things I found out about the datasets:
 
 A key idea used to speed up things for B and C is that if you have a slide and you are looking for the next one, you should only consider slides that have at least 1 tag in common. If they don't, then the interest factor will always be 0. The pictures that share a tag are called _mates_ in the code.
 
-## Code Layout
+## Code Structure
 There are 3 main files: Main, Strategies and Helper.
 * Helper: contains functions to generate data structures, calculate the score between two slides, the score of an entire slideshow, ...
 * Strategies: contains functions to a) merge vertical pictures into slides and b) 'sort'/arrange the slides
