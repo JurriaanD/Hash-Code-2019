@@ -1,4 +1,4 @@
-# Hash-Code-2019
+# Hash Code 2019
 ## Problem statement
 The problem statement is included as _problem statement.pdf_.
 
